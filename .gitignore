@@ -1,6 +1,5 @@
 # python environment folders
-/env
-/pytorch-env
+venv
 
 # python version use file
 .python-version
